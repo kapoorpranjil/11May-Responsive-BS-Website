@@ -1,0 +1,20 @@
+.p_cont{
+    border: 1px dashed red;
+}
+header{
+    height: 110px;
+    border: 1px dashed blue;
+    background-color: #9933cc;
+}
+main{
+    height: 1200px;
+    border: 1px dashed yellow;
+}
+footer{
+    height: 69px;
+    border: 1px dashed blue;
+    background-color: #0099cc;
+}
+.p_tbdr{
+    border: 1px dashed red;
+}
